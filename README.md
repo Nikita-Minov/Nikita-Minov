@@ -3,8 +3,6 @@
 #### I am a beginner MERN developer
 #### I love to learn something new
 
-#### Check my VK profile: [click](https://vk.com/nikita_minov)
-
 #### The technology I own
 
 ![REACT](https://img.shields.io/badge/REACT-black?style=for-the-badge&logo=react)
